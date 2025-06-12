@@ -1,3 +1,6 @@
+# Abra clicando no botão "3000" ao lado direito para abrir o projeto no navegador.
+
+
 # Animated Border
 
 Uma biblioteca de componente React para adicionar bordas animadas a qualquer elemento de forma simples e elegante, utilizando Next.js e styled-components.
